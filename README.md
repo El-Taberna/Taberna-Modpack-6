@@ -1,5 +1,7 @@
 # Taberna-Modpack-6
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3ed43b318e804dc9b18939c8d3de9990)](https://app.codacy.com/gh/El-Taberna/Taberna-Modpack-6?utm_source=github.com&utm_medium=referral&utm_content=El-Taberna/Taberna-Modpack-6&utm_campaign=Badge_Grade)
+
 Taberna Modpack 6 is all Mod and Config of Taberna Launcher ready to be upload on the Taberna 6 files server.
 
 ## Requirement 
